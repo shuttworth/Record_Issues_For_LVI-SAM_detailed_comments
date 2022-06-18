@@ -1,6 +1,6 @@
 #### 1.设备
 <center>
-<img src="device.jpg"width=70%>
+<img src="img/device.jpg"width=70%>
 </center>
 
 - 各个传感器坐标系已尽可能地保持主轴相互平行,避免复杂的参数标定过程。
@@ -18,5 +18,5 @@
   
 #### 5.最终建图效果
 <center>
-<img src="result.png"width=70%>
+<img src="img/result.png"width=70%>
 </center>
